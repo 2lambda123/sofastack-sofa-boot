@@ -38,18 +38,18 @@
         <protobuf.version>3.22.2</protobuf.version>
         <xerces.version>2.12.2</xerces.version>
         <guice.version>5.1.0</guice.version>
-        <guava.version>31.1-jre</guava.version>
+        <guava.version>32.0.0-jre</guava.version>
         <jboss.jaxrs.api.version>1.0.2.Final</jboss.jaxrs.api.version>
         <rocketmq.spring.boot.starter.version>2.0.2</rocketmq.spring.boot.starter.version>
-        <commons.io.version>2.4</commons.io.version>
+        <commons.io.version>2.7</commons.io.version>
         <druid.version>1.2.16</druid.version>
         <c3p0.version>0.9.1.1</c3p0.version>
         <common.dbcp.version>1.4</common.dbcp.version>
-        <resteasy.version>3.6.3.Final</resteasy.version>
+        <resteasy.version>3.14.0.Final</resteasy.version>
         <curator.version>4.3.0</curator.version>
-        <dubbo.version>3.1.8</dubbo.version>
+        <dubbo.version>3.1.11</dubbo.version>
         <zkclient.version>0.11</zkclient.version>
-        <nacos.version>2.0.3</nacos.version>
+        <nacos.version>2.0.4</nacos.version>
         <swagger.version>1.6.7</swagger.version>
         <swagger2.version>2.2.8</swagger2.version>
         <grpc.version>1.51.1</grpc.version>
